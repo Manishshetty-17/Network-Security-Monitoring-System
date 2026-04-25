@@ -1,3 +1,7 @@
+<img width="1920" height="1008" alt="Screenshot 2026-04-20 182800" src="https://github.com/user-attachments/assets/42ac1a74-3fe4-4b6d-9bd6-a894284843e4" />
+<img width="1920" height="1008" alt="Screenshot 2026-04-20 183033" src="https://github.com/user-attachments/assets/3b9aca8f-5370-47ac-bb6a-e0cf379f1bff" />
+<img width="1734" height="927" alt="Screenshot 2026-04-22 001921" src="https://github.com/user-attachments/assets/51a39466-eac1-4864-b5c8-c62780dc4fcd" />
+
 # 🔐 Network Security & Monitoring System
 
 A shell-based network monitoring and intrusion detection system that analyzes system activity and detects suspicious behavior.
